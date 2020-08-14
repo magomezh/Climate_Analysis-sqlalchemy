@@ -37,10 +37,18 @@ Jupyter Notebook, Python, SQLAlchemy ORM queries, Pandas, and Matplotlib.
 <table>
   <tr>
     <td>Precipitation Analysis</td>
-     <td>Station Analysis</td>
   </tr>
   <tr>
     <td valign="top"><img src="Graph_Images/2_Precipitation_Analysis.png"></td>
+   
+  </tr>
+ </table>
+
+<table>
+  <tr>
+     <td>Station Analysis</td>
+  </tr>
+  <tr>
     <td valign="top"><img src="Graph_Images/station-histogram.png"></td>
   </tr>
  </table>
@@ -56,3 +64,4 @@ Jupyter Notebook, Python, SQLAlchemy ORM queries, Pandas, and Matplotlib.
     <td valign="top"><img src="Graph_Images/Daily_Normals_Temp.png"></td>
   </tr>
  </table>
+ 
