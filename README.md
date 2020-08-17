@@ -53,7 +53,6 @@ Jupyter Notebook, Python, SQLAlchemy ORM queries, Pandas, and Matplotlib.
   </tr>
  </table>
 
-
 <table>
   <tr>
     <td>Temperature Analysis</td>
