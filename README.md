@@ -14,8 +14,8 @@ Jupyter Notebook, Python, SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 ## Methodology
 * Files:
-    - climate_analysis.ipynb - reads the sqlite database, performs analysis on the data, and generates graphs.
-    - app.py - Flask program to provide analysis on the Hawaii climate data
+    - **climate_analysis.ipynb** - reads the sqlite database, performs analysis on the data, and generates graphs.
+    - **app.py** - Flask program to provide analysis on the Hawaii climate data
 
 * Precipitation Analysis:
     - Designed query to retrieve the last 12 months of precipitation data (selecting date and prcp values).
