@@ -14,10 +14,12 @@ from flask import Flask, jsonify
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("sqlite:///Resources/hawaii.sqlite")
+# engine = create_engine("sqlite:///Resources/hawaii.sqlite")
+enginge = create_engine("sqlite:///Resources/hawaii.sqlite")
 
 # Reflect an existing database into a new model
 Base = automap_base()
+
 # Reflect the tables, reflect Database into ORM classes
 Base.prepare(engine, reflect=True)
 
