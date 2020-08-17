@@ -61,7 +61,7 @@ Jupyter Notebook, Python, SQLAlchemy ORM queries, Pandas, and Matplotlib.
   </tr>
   <tr>
     <td valign="top"><img src="Graph_Images/Temperature_Analysis.png"></td>
-    <td valign="top"><img src="Graph_Images/Daily_Normals_Temp.png"></td>
+    <td valign="top"><img src="Graph_Images/Daily_rainfall.png"></td>
   </tr>
  </table>
  
